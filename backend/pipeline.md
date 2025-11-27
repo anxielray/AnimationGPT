@@ -1,5 +1,11 @@
 # AnimationGPT Pipeline
 
+- Run the backend:
+
+```sh
+uvicorn main:app --reload --port 8000
+```
+
 ## Send Request
 
 - First, after the server is up and running, the application will receive a request from the frontend.
