@@ -12,8 +12,8 @@ STEM_TOPICS = {
     "Physics": ["force", "gravity", "motion", "energy", "light", "quantum", "particle", "wave", "mechanics"],
     "Chemistry": ["molecule", "atom", "reaction", "chemical", "bond", "acid", "base", "solution"],
     "Biology": ["cell", "dna", "gene", "organism", "evolution", "protein", "species", "enzyme"],
-    "Mathematics": ["algebra", "geometry", "calculus", "probability", "equation", "function", "derivative"],
-    "Computer Science": ["algorithm", "data", "ai", "machine", "learning", "network", "python", "programming"]
+    "Mathematics": ["algebra", "geometry", "calculus", "probability", "equation", "function", "derivative"]
+    #"Computer Science": ["algorithm", "data", "ai", "machine", "learning", "network", "python", "programming"]
 }
 
 STOPWORDS = set(stopwords.words("english"))
